@@ -4,5 +4,4 @@
 ## Solve your life problems using code
 ## Recharge your life titles as part of new life 
 ## life is just titles you learn how to bold it in many ways
-# join us to find your way to be programmer
-#
+# Join us to find your way to be programmer
